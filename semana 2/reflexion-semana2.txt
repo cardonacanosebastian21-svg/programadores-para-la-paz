@@ -1,0 +1,14 @@
+Dominar la terminal es fundamental para cualquier desarrollador 
+porque permite interactuar con el sistema de forma directa, rápida 
+y eficiente. A diferencia de las interfaces gráficas, la terminal 
+facilita la automatización de tareas repetitivas y es la herramienta 
+estándar para gestionar servidores y entornos de despliegue. 
+Saber navegar y organizar archivos mediante comandos nos da un control 
+total sobre la estructura de nuestros proyectos, evitando errores 
+comunes al mover o crear carpetas. Además, la mayoría de las herramientas 
+modernas de desarrollo, como Git, compiladores y gestores de paquetes, 
+se ejecutan principalmente desde la línea de comandos. Esta habilidad no 
+solo optimiza el flujo de trabajo, sino que profesionaliza el perfil del 
+programador al permitirle trabajar en entornos donde no existe una interfaz 
+visual. En conclusión, la terminal es el lenguaje base que conecta al 
+desarrollador con su entorno de trabajo de manera técnica y escalable.
