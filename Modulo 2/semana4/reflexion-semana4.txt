@@ -1,0 +1,11 @@
+La soberanía tecnológica es fundamental para que las comunidades e iniciativas 
+ciudadanas dejen de ser solo consumidoras de software y pasen a ser creadoras 
+de soluciones adaptadas a sus realidades locales. El uso de tecnologías abiertas 
+como Node.js reduce drásticamente las barreras económicas, ya que no se depende 
+de costosas licencias de software propietario para desarrollar herramientas útiles 
+y estables. Además, al construir software propio con código abierto, el conocimiento 
+técnico se queda dentro del territorio y la comunidad mantiene el control absoluto 
+sobre sus datos y la privacidad de sus procesos sociales. Esto permite diseñar 
+plataformas de participación, registros comunitarios o sistemas de gestión logística 
+que responden directamente a las necesidades del entorno, promoviendo la autogestión 
+y empoderando a los líderes de base a través de la innovación social y técnica.
