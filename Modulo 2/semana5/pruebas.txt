@@ -1,0 +1,11 @@
+Resultados de las pruebas de rutas en el navegador (Localhost):
+
+1. Al ingresar a http://localhost:3000
+   Ocurre: El navegador muestra el texto "Servidor activo". Es la respuesta de la ruta raíz (GET /) que confirma que el servidor de Express está levantado y escuchando peticiones de forma correcta.
+
+2. Al ingresar a http://localhost:3000/saludo
+   Ocurre: El navegador muestra el texto "Hola comunidad". El servidor identifica el endpoint de saludo y retorna un mensaje estático enfocado en el entorno comunitario.
+
+3. Al ingresar a http://localhost:3000/mensaje/juan
+   Ocurre: El navegador muestra el texto "Hola juan". El servidor lee de forma dinámica la variable ":nombre" enviada a través de los parámetros de la URL (req.params.nombre) y la concatena en la respuesta. Si se cambia "juan" por otro nombre, el saludo cambia automáticamente.
+   
