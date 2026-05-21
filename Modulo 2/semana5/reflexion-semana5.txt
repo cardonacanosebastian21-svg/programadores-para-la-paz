@@ -1,0 +1,15 @@
+Las APIs representan un puente tecnológico crucial para transformar la 
+gestión de la información comunitaria, pasando de procesos dispersos y 
+manuales a sistemas unificados y eficientes. Al estandarizar la forma 
+en que se capturan y distribuyen los datos, permiten que diferentes 
+aplicaciones o interfaces del territorio interactúen de manera fluida 
+y en tiempo real. Esto significa que los líderes sociales, gestores y 
+la ciudadanía general pueden centralizar reportes de necesidades, 
+alertas de seguridad o propuestas de desarrollo en una sola base común 
+accesible para todos. Al automatizar la validación, clasificación y 
+flujo de estos datos mediante endpoints estructurados, se reduce el 
+ruido informativo y se agiliza la rendición de cuentas, democratizando 
+el acceso a los datos públicos. En última instancia, las APIs fortalecen 
+los canales de participación ciudadana al transparentar los procesos 
+organizacionales, empoderando al tejido comunitario a través de una 
+infraestructura digital confiable y bien coordinada.
